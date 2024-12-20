@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @CyberTamizhan
-- 👀 I’m interested in Hacking and Software development
-- 🌱 I’m currently learning Kali linux
-- 💞️ I’m looking to collaborate on no idea
-- 📫 How to reach me 
+I'm a chess player and I would like to do project based on chessfull themes. If you have any idea, feel free to contact me.
+
 Instagram : cybertamizhan_7
 Whatsapp : +91 8148027739
 
